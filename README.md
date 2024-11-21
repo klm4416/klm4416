@@ -34,15 +34,5 @@
 - **경영 데이터분석 경진대화 3위** - [경영 데이터분석 경진대회](대회 링크)
 - **데이터 분석 인증서** - [기관 이름](인증서 링크)
 
-## 💬 롤모댈
-
-> Warren buffet
-> Stanley Freeman Druckenmiller
-> Jim Simons
-
----
-
-![Financial Engineering](https://images.unsplash.com/photo-1559526324-593bc073d938?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc2N3wwfDF8c2VhcmNofDF8fGZpbmFuY2lhbHxlbnwwfHx8fDE2ODk1NjA1NTA&ixlib=rb-4.0.3&q=80&w=400)
-
 
 
