@@ -25,9 +25,9 @@
 
 ## 📊 GitHub 통계
 
-![yourusername's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![yourusername's GitHub stats](https://github-readme-stats.vercel.app/api?username=klm4416&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klm4416&layout=compact&theme=radical)
 
 ## 🏆 수상 및 인증
 
