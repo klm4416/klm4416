@@ -1,10 +1,4 @@
-# 안녕하세요! 👋
-
 ## 금융공학을 꿈꾸는 개발자, 김지광입니다 💼📈
-
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat)
 
 ## 🧠 소개
 개발과 금융을 엮어 자본 시장을 선도하고 싶은 사람입니다.
