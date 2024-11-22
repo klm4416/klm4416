@@ -10,6 +10,9 @@
 ![C++](https://img.shields.io/badge/C++-00599C?&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
 
+### 라이브러리
+![YOLO](https://img.shields.io/badge/YOLO-FF5722?logo=opencv&logoColor=white&color=FF5722)
+
 
 
 ## 📈 프로젝트
