@@ -12,6 +12,7 @@
 
 ### 라이브러리
 ![YOLO](https://img.shields.io/badge/YOLO-FF5722?logo=opencv&logoColor=white&color=FF5722)
+![OpenCV](https://img.shields.io/badge/OpenCV-FF5722?logo=opencv&logoColor=white&color=007ACC)
 
 
 
