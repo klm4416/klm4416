@@ -16,10 +16,10 @@
 
 ### 라이브러리
 ![YOLO](https://img.shields.io/badge/YOLO-FF5722?logo=opencv&logoColor=white&color=FF5722)
-![OpenCV](https://img.shields.io/badge/OpenCV-FF5722?logo=opencv&logoColor=white&color=007ACC)
-![Pandas](https://img.shields.io/badge/Pandas-150458?&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?&logo=numpy&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?&logo=scikit-learn&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-FF5722?logo=opencv&logoColor=white&color=007ACC)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?&logo=scikit-learn&logoColor=white)
 
 ## 📈 프로젝트
 
