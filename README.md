@@ -11,6 +11,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
+![C](https://img.shields.io/badge/C-555555?logo=c&logoColor=white&color=555555)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&color=007396)
+
 
 ### 라이브러리
 ![YOLO](https://img.shields.io/badge/YOLO-FF5722?logo=opencv&logoColor=white&color=FF5722)
