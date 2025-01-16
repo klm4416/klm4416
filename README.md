@@ -13,6 +13,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
 ![C](https://img.shields.io/badge/C-555555?logo=c&logoColor=white&color=555555)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&color=007396)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ### 라이브러리
 ![YOLO](https://img.shields.io/badge/YOLO-FF5722?logo=opencv&logoColor=white&color=FF5722)
