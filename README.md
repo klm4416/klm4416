@@ -21,6 +21,9 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?&logo=scikit-learn&logoColor=white)
 
+### 프레임워크
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+
 ## 📈 프로젝트
 
 ### [경영 데이터분석 경진대화] 장려상
