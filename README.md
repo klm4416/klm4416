@@ -43,7 +43,7 @@
 
 ![yourusername's GitHub stats](https://github-readme-stats.vercel.app/api?username=klm4416&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klm4416&layout=compact&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=klm4416)](https://solved.ac/klm4416/)
 
 ## 🏆 수상 및 인증
 
