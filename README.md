@@ -14,7 +14,7 @@
 ![C](https://img.shields.io/badge/C-555555?logo=c&logoColor=white&color=555555)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&color=007396)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript Logo](https://cdn.worldvectorlogo.com/logos/typescript.svg)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
 
 ### 라이브러리
