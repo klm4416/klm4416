@@ -34,12 +34,6 @@
 
 - **이메일**: [5244416@naver.com](mailto:5244416@naver.com)
 
-## 📊 GitHub 통계
-
-![yourusername's GitHub stats](https://github-readme-stats.vercel.app/api?username=klm4416&show_icons=true&theme=radical)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=klm4416)](https://solved.ac/klm4416/)
-
 ## 🏆 수상 및 인증
 
 - **경영 데이터분석 경진대화 3위** - [경영 데이터분석 경진대회]
